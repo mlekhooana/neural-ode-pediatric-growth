@@ -1,0 +1,16 @@
+{
+  "title": "Code and synthetic data for: Continuous-Time Monitoring of Pediatric Growth: A Coupled Neural ODE Approach to Forecasting, Classification, and Cross-Variable Inference",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Lekhooana, Mosito",
+      "affiliation": "National University of Lesotho; University of the Witwatersrand",
+      "orcid": "0009-0006-6281-8416"
+    },
+    {
+      "name": "Ali, Montaz",
+      "affiliation": "University of the Witwatersrand"
+    }
+  ]
+}
